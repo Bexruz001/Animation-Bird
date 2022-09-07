@@ -1,0 +1,123 @@
+@keyframes redAnim {
+  0% {
+    transform: rotate(-360deg);
+  }
+  15% {
+    transform: rotate(-360deg);
+  }
+  35% {
+    transform: rotate(-180deg);
+  }
+  65% {
+    transform: rotate(-180deg);
+  }
+  85% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes whiteAnim {
+  0% {
+    transform: rotate(0deg);
+  }
+  15% {
+    transform: rotate(0deg);
+  }
+  35% {
+    transform: rotate(-180deg);
+  }
+  65% {
+    transform: rotate(-180deg);
+  }
+  85% {
+    transform: rotate(-360deg);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
+}
+@keyframes yellowanim{
+  0% {
+    transform: rotate(0deg);
+  }
+  15% {
+    transform: rotate(0deg);
+  }
+  35% {
+    transform: rotate(90deg);
+  }
+  65% {
+    transform: rotate(90deg);
+  }
+  85% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+
+}
+@keyframes orangeanim{
+  0% {
+    transform: rotate(0deg);
+  }
+  15% {
+    transform: rotate(0deg);
+  }
+  35% {
+    transform: rotate(270deg);
+  }
+  65% {
+    transform: rotate(270deg);
+  }
+  85% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+@keyframes blackanim{
+  0% {
+    transform: rotate(0deg);
+  }
+  15% {
+    transform: rotate(0deg);
+  }
+  35% {
+    transform: rotate(-90deg);
+  }
+  65% {
+    transform: rotate(-90deg);
+  }
+  85% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+@keyframes shadovanim{
+  0% {
+    transform: rotate(0deg);
+  }
+  15% {
+    transform: rotate(0deg);
+  }
+  35% {
+    transform: rotate(-270deg);
+  }
+  65% {
+    transform: rotate(-270deg);
+  }
+  85% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
